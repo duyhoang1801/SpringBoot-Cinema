@@ -43,19 +43,14 @@ This is a web application for booking movie tickets, developed using Spring Boot
      spring.jpa.hibernate.ddl-auto=update
      ```
 
-3. **Configure the payment gateway**:
-   - Add your payment gateway API keys in `src/main/resources/application.properties`:
-     ```properties
-     stripe.api.key=yourStripeApiKey
-     ```
 
-4. **Build and run the application**:
+3. **Build and run the application**:
    ```bash
    mvn clean install
    mvn spring-boot:run
    ```
 
-5. **Access the application**:
+4. **Access the application**:
    - Open a web browser and navigate to `http://localhost:8080`.
 
 
