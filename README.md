@@ -15,7 +15,6 @@ This is a web application for booking movie tickets, developed using Spring Boot
 
 - **Backend**: Spring Boot 6, Spring Security, Spring Data JPA, Hibernate
 - **Database**: MySQL
-- **Payment Gateway**: Stripe (or any other payment gateway)
 - **Build Tool**: Maven
 
 ## Getting Started
